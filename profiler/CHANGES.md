@@ -1,5 +1,12 @@
 # Changes
 
+### [0.2.1](https://github.com/googleapis/google-cloud-go/compare/profiler/v0.2.0...profiler/v0.2.1) (2022-05-11)
+
+
+### Bug Fixes
+
+* **profiler:** relax service name regexp to allow service names starting with numbers to be used ([#5994](https://github.com/googleapis/google-cloud-go/issues/5994)) ([a1d8ac9](https://github.com/googleapis/google-cloud-go/commit/a1d8ac99b714d7df4923acbb794dbe04ce748013))
+
 ## [0.2.0](https://github.com/googleapis/google-cloud-go/compare/profiler/v0.1.2...profiler/v0.2.0) (2022-02-14)
 
 
