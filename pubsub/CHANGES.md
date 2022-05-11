@@ -1,5 +1,12 @@
 # Changes
 
+### [1.21.2](https://github.com/googleapis/google-cloud-go/compare/pubsub/v1.21.1...pubsub/v1.21.2) (2022-05-11)
+
+
+### Bug Fixes
+
+* **pubsub:** disable deprecated BufferedByteLimit when using MaxOutstandingBytes ([#6009](https://github.com/googleapis/google-cloud-go/issues/6009)) ([dbfdf76](https://github.com/googleapis/google-cloud-go/commit/dbfdf762c77f9cfad637c573b06f0a49e01316f3))
+
 ### [1.21.1](https://github.com/googleapis/google-cloud-go/compare/pubsub/v1.21.0...pubsub/v1.21.1) (2022-05-04)
 
 
